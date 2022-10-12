@@ -1,3 +1,3 @@
-Applied Common Table Expressions (CTE), correlation and aggregation techniques to produce recommendations on how an online retail company can optimize and maximize revenue.
+Applied Common Table Expressions (CTE), correlation and aggregation techniques to produce recommendations on how an online sports clothing company can optimize and maximize revenue.
    - An extension of Adidas products sold at full prices may potentially maximize revenue, as they generate the most total revenue,      regardless of price and despite being heavily discounted. A discount on Nike products might lead to an increase in its revenue      as its overall volume sold is boosted.
    - Incentivizing an increase in customer reviews per product and sustaining those levels throughout the year may lead to a rise        in a product’s revenue, as a strong positive correlation between a product’s revenue and reviews was determined.
